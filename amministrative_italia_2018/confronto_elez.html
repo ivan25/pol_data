@@ -1,0 +1,173 @@
+<html>
+	<head>
+		<title>POL -> AMM</title>
+		
+		<link rel="stylesheet" type="text/css" 
+			href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css">
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.4/vue.js" ></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+		<script src="http://www.numericjs.com/lib/numeric-1.2.6.min.js"></script>
+		<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+		<style>
+		
+			table { width: auto; font-size: 15px; margin: auto; margin-top: 25px;
+				table-layout: auto; border-collapse: separate; border-spacing: 0px; 
+			}
+			table td, table th { padding: 2px 10px; display: table-cell; text-align: center; }
+			table th { font-weight: bold; color: white; text-transform: capitalize; }
+			thead tr { background-color: #02547D; }
+			td.striped { filter: brightness(90%); }
+			table td { background-color: #E1F7E7; vertical-align: middle; }
+				
+			td.italic { font-style: italic; }
+				
+			td.comune { font-weight: bold; }
+			td.CDX { background-color: #9FA8DA; }
+			td.CSX { background-color: #FFCDD2; }
+			td.FI { background-color: #90CAF9; }
+			td.L { background-color: #A5D6A7; }
+			td.FDI { background-color: #BDBDBD; }
+			td.M5S { background-color: #FFF59D; }
+			td.PD { background-color: #FFCC80; }
+			
+			tr > td.sopra0 { color: green; /*background-color: #DCEDC8;*/ }
+			tr > td.sotto0 { color: red; /*background-color: #FFCDD2;*/ }
+			tr > td.sopra50 { filter: brightness(75%); font-weight: bold; }
+		</style>
+	</head>
+	<body>
+	
+	<div id="app">
+		<div class="container">
+			<div class="columns">
+	
+				<div class="column is-3">
+					<div class="title">
+						Confronto tra risultati alle elezioni del 4/3 e alle amministrative
+					</div>	
+		
+					Variazione tra il risultato dei vari partiti alle elezioni politiche 
+					(dato in alto) e alle amministrative (valore in basso).
+					In alto la variazione nei sondaggi a livello nazionale per i vari partiti.
+		
+					<br><br>
+					Per i singoli partiti tenere a mente che non è considerata la
+					presenza delle liste civiche.
+		
+					<br><br>
+					I valori delle tre coalizioni (CDX, CSX, M5S) sono confrontati con i voti
+					dei rispettivi candidati sindaco (in modo da ridurre il problema delle 
+					liste civiche). 
+					
+					<br><br>
+					In alcuni comuni alcuni partiti non sono presenti perché non ci sono liste
+					con il simbolo, oppure perché sono uniti insieme (ad es da Impruneta dove i
+					tre partiti del cdx sono uniti in una sola lista).
+					
+					<br><br>
+					Ultimo aggiornamento: <strong>{{ last_update }}</strong>
+				</div><!-- .column -->
+				
+				<div class="column is-9">
+
+					<table>
+					<thead>
+						<th>Comune</th>
+						<th>Elettori</th>
+						<th>sez</th>
+						<th v-for="partito in list_partiti" :class="partito" colspan=2>{{ partito }}</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Var sondaggi</td>
+							<td></td>
+							<td></td>
+							<td v-for="partito in list_partiti" colspan=2
+								:class="[variazioni_sondaggi[partito] > 0 ? 'sopra0' : 'sotto0',
+											Math.abs(variazioni_sondaggi[partito]) > 5 ? 'large' : '']">
+								{{ Math.round(10*variazioni_sondaggi[partito])/10 }}
+							</td>
+						</tr>
+						<template v-for="(comune,i) in Object.keys(data_pol)">
+							<tr>
+								<td class="comune" :class="i%2==0 ? 'striped': ''" rowspan=2>
+									{{ comune }}
+								</td>
+								<td :class="i%2==0 ? 'striped': ''" rowspan=2>
+									{{ number_1000(data_pol[comune]['ELETTORI']) }}
+								</td>
+								<td :class="i%2==0 ? 'striped': ''" rowspan=2>
+									{{ data_amm[comune]['sez_perv'] }}
+								</td>
+								<template v-for="partito in list_partiti">
+									<td :class="partito">
+										{{ Math.round(10*data_pol[comune][partito])/10 }}
+									</td>
+									<td rowspan=2
+										:class="[variazioni[comune][partito] >= 0 ? 'sopra0' : 'sotto0',
+											i%2==0 ? 'striped': '']">
+										{{ Object.keys(variazioni[comune]).indexOf(partito) > -1 ?
+											Math.round(10*variazioni[comune][partito])/10 : '' }}
+									</td>
+								</template>
+							</tr>
+							<tr>
+								<td v-for="partito in list_partiti" :class="[partito,
+									data_amm[comune][partito]>=50 ? 'sopra50' : '']">		
+									{{ Object.keys(data_amm[comune]).indexOf(partito) > -1 ?
+										Math.round(10*data_amm[comune][partito])/10 : '' }}
+								</td>
+							</tr>
+						</template>
+					</tbody>
+					</table>
+				</div><!-- .column -->
+			</div><!-- .columns -->
+		</div><!-- .container -->
+	</div><!-- #app -->
+		
+	<script>
+	
+	new Vue({
+		el: '#app',
+		data: function() {
+			return {
+				last_update: 'nan',
+				data_pol: {},
+				data_amm: {},
+				variazioni_sondaggi: {'CDX': 40.7-35.8, 'FDI': 3.7-4.4, 'FI': 11-14, 'L': 26-17.4, 
+										'M5S': 30.9-32.7, 'PD': 19-18.8, 'CSX': 20.3-22.9},
+				list_partiti: ['FDI', 'FI', 'L', 'PD', 'M5S', 'CDX', 'CSX']
+			};
+		},
+		created: function() {
+			d3.json('risultati_amm.json', (error, data) => { this.data_amm = data; });
+			d3.json('risultati_pol.json', (error, data) => { this.data_pol = data; });
+		},
+		computed: {
+			last_update: function() { return this.data_amm['timestamp']; },
+			variazioni: function() {
+				return Object.keys(this.data_pol).reduce((acc, comune_i) => {
+					acc[comune_i] = {};
+					
+					this.list_partiti.forEach((partito_j) => {
+						if (Object.keys(this.data_amm[comune_i]).indexOf(partito_j) > -1) {
+							acc[comune_i][partito_j] = this.data_amm[comune_i][partito_j] - 
+															this.data_pol[comune_i][partito_j];
+						}
+					});
+					return acc;
+				}, {});
+			}
+		},
+		methods: {
+			number_1000: function(d) { return numeral(d).format('0,0'); }
+		}
+	});
+	
+	</script>
+	
+	</body>
+</html>

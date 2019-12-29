@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10481	11/06/2018	2018 General Election	State Totals	Voted Early	307,923	299,687	5,582	117,679	730,871	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Alachua	Voted Early	3,670	8,889	109	1,981	14,649	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Baker	Voted Early	832	256	3	66	1,157	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Bay	Voted Early	1	0	0	0	1	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Bradford	Voted Early	519	294	7	57	877	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Brevard	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Broward	Voted Early	20,953	50,387	518	14,528	86,386	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Calhoun	Voted Early	168	159	0	30	357	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Charlotte	Voted Early	6,843	2,967	93	2,010	11,913	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Citrus	Voted Early	2,309	880	20	617	3,826	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Clay	Voted Early	3,928	1,185	28	711	5,852	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Collier	Voted Early	6,469	2,544	52	1,869	10,934	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Columbia	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	DeSoto	Voted Early	532	521	7	100	1,160	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Dixie	Voted Early	190	61	3	24	278	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Duval	Voted Early	21,506	22,008	334	5,731	49,579	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Escambia	Voted Early	8,130	4,883	105	1,655	14,773	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Flagler	Voted Early	5,216	3,207	50	1,663	10,136	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Franklin	Voted Early	1	0	0	0	1	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Gadsden	Voted Early	432	1,435	9	96	1,972	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Gilchrist	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Glades	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Gulf	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Hamilton	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Hardee	Voted Early	431	177	2	31	641	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Hendry	Voted Early	720	577	5	88	1,390	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Hernando	Voted Early	3,152	1,740	42	899	5,833	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Highlands	Voted Early	2,163	948	14	436	3,561	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Hillsborough	Voted Early	19,491	21,642	346	7,795	49,274	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Holmes	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Indian River	Voted Early	5,645	2,619	75	1,797	10,136	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Jackson	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Jefferson	Voted Early	401	443	4	62	910	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Lafayette	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Lake	Voted Early	11,760	7,173	110	3,772	22,815	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Lee	Voted Early	13,026	6,661	113	4,474	24,274	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Leon	Voted Early	4,844	8,496	87	1,649	15,076	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Levy	Voted Early	676	357	16	120	1,169	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Liberty	Voted Early	46	89	0	5	140	10/26/2018  7:17AM
+10481	11/06/2018	2018 General Election	Madison	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Manatee	Voted Early	5,095	3,072	274	1,680	10,121	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Marion	Voted Early	6,985	3,965	57	1,959	12,966	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Martin	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Miami-Dade	Voted Early	26,716	40,841	459	16,340	84,356	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Monroe	Voted Early	1,665	1,401	19	640	3,725	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Nassau	Voted Early	2,121	665	26	338	3,150	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Okaloosa	Voted Early	9,187	2,232	110	1,373	12,902	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Okeechobee	Voted Early	1,117	580	11	143	1,851	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Orange	Voted Early	12,863	19,761	291	6,924	39,839	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Osceola	Voted Early	1,468	1,996	34	778	4,276	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Palm Beach	Voted Early	18,942	26,578	465	10,634	56,619	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Pasco	Voted Early	8,841	5,311	148	2,897	17,197	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Pinellas	Voted Early	5,106	5,385	136	2,527	13,154	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Polk	Voted Early	4,564	4,032	66	1,677	10,339	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Putnam	Voted Early	1,542	929	8	230	2,709	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Santa Rosa	Voted Early	6,299	1,603	81	942	8,925	10/26/2018  7:17AM
+10481	11/06/2018	2018 General Election	Sarasota	Voted Early	11,606	6,767	153	4,538	23,064	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Seminole	Voted Early	10,948	9,606	833	4,349	25,736	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	St. Johns	Voted Early	11,595	4,402	117	2,431	18,545	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	St. Lucie	Voted Early	5,392	6,414	85	2,478	14,369	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Sumter	Voted Early	11,387	3,225	56	2,504	17,172	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Suwannee	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Taylor	Voted Early	430	324	1	31	786	10/27/2018  7:24AM
+10481	11/06/2018	2018 General Election	Union	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Volusia	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Wakulla	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Walton	Voted Early	0	0	0	0	0	
+10481	11/06/2018	2018 General Election	Washington	Voted Early	0	0	0	0	0	

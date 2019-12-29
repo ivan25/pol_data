@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10481	11/06/2018	2018 General Election	State Totals	Vote-by-Mail Provided (Not Yet Returned)	861,226	975,217	14,032	495,771	2,346,246	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Alachua	Vote-by-Mail Provided (Not Yet Returned)	7,740	15,083	203	4,866	27,892	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Baker	Vote-by-Mail Provided (Not Yet Returned)	687	462	1	62	1,212	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Bay	Vote-by-Mail Provided (Not Yet Returned)	7,891	4,858	81	1,885	14,715	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Bradford	Vote-by-Mail Provided (Not Yet Returned)	1,189	897	10	262	2,358	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Brevard	Vote-by-Mail Provided (Not Yet Returned)	37,447	32,397	574	15,180	85,598	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Broward	Vote-by-Mail Provided (Not Yet Returned)	40,750	115,362	1,107	44,363	201,582	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Calhoun	Vote-by-Mail Provided (Not Yet Returned)	323	649	6	48	1,026	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Charlotte	Vote-by-Mail Provided (Not Yet Returned)	10,672	7,458	176	4,704	23,010	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Citrus	Vote-by-Mail Provided (Not Yet Returned)	9,206	6,174	128	3,515	19,023	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Clay	Vote-by-Mail Provided (Not Yet Returned)	11,947	5,297	126	3,925	21,295	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Collier	Vote-by-Mail Provided (Not Yet Returned)	20,073	9,225	204	7,724	37,226	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Columbia	Vote-by-Mail Provided (Not Yet Returned)	2,495	2,037	32	653	5,217	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	DeSoto	Vote-by-Mail Provided (Not Yet Returned)	812	853	13	294	1,972	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Dixie	Vote-by-Mail Provided (Not Yet Returned)	616	541	6	153	1,316	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Duval	Vote-by-Mail Provided (Not Yet Returned)	24,735	27,374	451	9,804	62,364	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Escambia	Vote-by-Mail Provided (Not Yet Returned)	14,540	10,074	184	4,553	29,351	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Flagler	Vote-by-Mail Provided (Not Yet Returned)	4,859	4,679	64	2,490	12,092	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Franklin	Vote-by-Mail Provided (Not Yet Returned)	582	849	21	145	1,597	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Gadsden	Vote-by-Mail Provided (Not Yet Returned)	577	2,919	7	183	3,686	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Gilchrist	Vote-by-Mail Provided (Not Yet Returned)	690	367	8	125	1,190	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Glades	Vote-by-Mail Provided (Not Yet Returned)	331	215	3	67	616	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Gulf	Vote-by-Mail Provided (Not Yet Returned)	536	500	10	59	1,105	10/08/2018  7:15AM
+10481	11/06/2018	2018 General Election	Hamilton	Vote-by-Mail Provided (Not Yet Returned)	372	589	1	81	1,043	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Hardee	Vote-by-Mail Provided (Not Yet Returned)	559	418	2	142	1,121	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Hendry	Vote-by-Mail Provided (Not Yet Returned)	653	706	1	161	1,521	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Hernando	Vote-by-Mail Provided (Not Yet Returned)	10,256	8,706	175	4,993	24,130	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Highlands	Vote-by-Mail Provided (Not Yet Returned)	3,979	2,939	30	1,307	8,255	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Hillsborough	Vote-by-Mail Provided (Not Yet Returned)	57,358	72,628	1,173	37,160	168,319	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Holmes	Vote-by-Mail Provided (Not Yet Returned)	856	523	5	81	1,465	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Indian River	Vote-by-Mail Provided (Not Yet Returned)	8,654	5,272	113	3,360	17,399	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Jackson	Vote-by-Mail Provided (Not Yet Returned)	1,427	2,134	5	216	3,782	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Jefferson	Vote-by-Mail Provided (Not Yet Returned)	275	500	1	70	846	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Lafayette	Vote-by-Mail Provided (Not Yet Returned)	170	205	0	26	401	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Lake	Vote-by-Mail Provided (Not Yet Returned)	16,246	12,512	186	6,154	35,098	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Lee	Vote-by-Mail Provided (Not Yet Returned)	47,575	27,565	511	22,467	98,118	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Leon	Vote-by-Mail Provided (Not Yet Returned)	8,416	15,831	133	3,502	27,882	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Levy	Vote-by-Mail Provided (Not Yet Returned)	2,175	1,359	61	486	4,081	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Liberty	Vote-by-Mail Provided (Not Yet Returned)	75	305	1	25	406	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Madison	Vote-by-Mail Provided (Not Yet Returned)	315	573	3	74	965	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Manatee	Vote-by-Mail Provided (Not Yet Returned)	24,074	17,457	361	10,848	52,740	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Marion	Vote-by-Mail Provided (Not Yet Returned)	14,726	10,435	171	4,740	30,072	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Martin	Vote-by-Mail Provided (Not Yet Returned)	9,246	4,972	113	2,957	17,288	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Miami-Dade	Vote-by-Mail Provided (Not Yet Returned)	88,235	129,032	1,207	78,678	297,152	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Monroe	Vote-by-Mail Provided (Not Yet Returned)	4,449	3,823	99	2,105	10,476	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Nassau	Vote-by-Mail Provided (Not Yet Returned)	4,971	2,189	64	1,369	8,593	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Okaloosa	Vote-by-Mail Provided (Not Yet Returned)	10,687	4,530	158	3,434	18,809	10/16/2018  7:13AM
+10481	11/06/2018	2018 General Election	Okeechobee	Vote-by-Mail Provided (Not Yet Returned)	855	636	10	243	1,744	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Orange	Vote-by-Mail Provided (Not Yet Returned)	39,947	66,464	808	33,175	140,394	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Osceola	Vote-by-Mail Provided (Not Yet Returned)	11,254	19,924	183	11,464	42,825	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Palm Beach	Vote-by-Mail Provided (Not Yet Returned)	48,383	89,612	1,151	36,349	175,495	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Pasco	Vote-by-Mail Provided (Not Yet Returned)	20,771	18,386	357	11,473	50,987	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Pinellas	Vote-by-Mail Provided (Not Yet Returned)	78,492	81,103	1,471	45,925	206,991	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Polk	Vote-by-Mail Provided (Not Yet Returned)	30,097	27,614	365	14,406	72,482	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Putnam	Vote-by-Mail Provided (Not Yet Returned)	2,136	2,264	29	625	5,054	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Santa Rosa	Vote-by-Mail Provided (Not Yet Returned)	8,005	3,028	122	2,227	13,382	10/19/2018  7:15AM
+10481	11/06/2018	2018 General Election	Sarasota	Vote-by-Mail Provided (Not Yet Returned)	22,348	19,787	324	10,233	52,692	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Seminole	Vote-by-Mail Provided (Not Yet Returned)	23,499	21,138	376	12,560	57,573	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	St. Johns	Vote-by-Mail Provided (Not Yet Returned)	12,001	7,513	176	4,122	23,812	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	St. Lucie	Vote-by-Mail Provided (Not Yet Returned)	10,839	13,345	150	6,061	30,395	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Sumter	Vote-by-Mail Provided (Not Yet Returned)	6,758	3,940	53	2,423	13,174	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Suwannee	Vote-by-Mail Provided (Not Yet Returned)	1,617	1,206	13	290	3,126	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Taylor	Vote-by-Mail Provided (Not Yet Returned)	676	997	6	100	1,779	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Union	Vote-by-Mail Provided (Not Yet Returned)	306	338	0	29	673	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Volusia	Vote-by-Mail Provided (Not Yet Returned)	23,500	21,625	392	13,520	59,037	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Wakulla	Vote-by-Mail Provided (Not Yet Returned)	922	955	9	242	2,128	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Walton	Vote-by-Mail Provided (Not Yet Returned)	3,337	1,144	44	659	5,184	10/20/2018  7:13AM
+10481	11/06/2018	2018 General Election	Washington	Vote-by-Mail Provided (Not Yet Returned)	1,036	725	4	149	1,914	10/20/2018  7:13AM

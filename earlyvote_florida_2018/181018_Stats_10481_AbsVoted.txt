@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10481	11/06/2018	2018 General Election	State Totals	Voted Vote-by-Mail	299,687	256,657	3,653	117,439	677,436	10/18/2018  7:13AM
+10481	11/06/2018	2018 General Election	Alachua	Voted Vote-by-Mail	1,490	2,798	50	718	5,056	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Baker	Voted Vote-by-Mail	223	140	2	28	393	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Bay	Voted Vote-by-Mail	133	83	1	39	256	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Bradford	Voted Vote-by-Mail	522	370	4	82	978	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Brevard	Voted Vote-by-Mail	9,306	7,498	131	3,243	20,178	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Broward	Voted Vote-by-Mail	12,400	22,749	236	7,268	42,653	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Calhoun	Voted Vote-by-Mail	12	5	0	1	18	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Charlotte	Voted Vote-by-Mail	6,712	4,612	89	2,408	13,821	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Citrus	Voted Vote-by-Mail	4,512	2,592	42	1,548	8,694	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Clay	Voted Vote-by-Mail	1,759	751	23	504	3,037	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Collier	Voted Vote-by-Mail	14,889	5,295	92	4,193	24,469	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Columbia	Voted Vote-by-Mail	528	368	6	104	1,006	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	DeSoto	Voted Vote-by-Mail	51	49	0	10	110	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Dixie	Voted Vote-by-Mail	273	219	4	48	544	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Duval	Voted Vote-by-Mail	4,683	3,470	57	1,051	9,261	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Escambia	Voted Vote-by-Mail	5,855	3,832	75	1,387	11,149	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Flagler	Voted Vote-by-Mail	2,029	1,516	20	785	4,350	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Franklin	Voted Vote-by-Mail	2	13	0	1	16	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Gadsden	Voted Vote-by-Mail	107	428	2	26	563	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Gilchrist	Voted Vote-by-Mail	205	119	0	17	341	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Glades	Voted Vote-by-Mail	123	91	1	27	242	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Gulf	Voted Vote-by-Mail	0	0	0	0	0	10/08/2018  7:15AM
+10481	11/06/2018	2018 General Election	Hamilton	Voted Vote-by-Mail	109	125	2	14	250	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Hardee	Voted Vote-by-Mail	0	0	0	0	0	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Hendry	Voted Vote-by-Mail	245	233	2	46	526	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Hernando	Voted Vote-by-Mail	6,923	4,940	86	2,237	14,186	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Highlands	Voted Vote-by-Mail	2,229	1,443	15	640	4,327	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Hillsborough	Voted Vote-by-Mail	23,019	23,830	343	9,961	57,153	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Holmes	Voted Vote-by-Mail	66	36	0	3	105	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Indian River	Voted Vote-by-Mail	4,556	2,640	59	1,386	8,641	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Jackson	Voted Vote-by-Mail	36	33	0	3	72	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Jefferson	Voted Vote-by-Mail	126	214	1	36	377	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Lafayette	Voted Vote-by-Mail	51	58	1	6	116	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Lake	Voted Vote-by-Mail	3,092	2,174	17	937	6,220	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Lee	Voted Vote-by-Mail	29,443	15,309	235	10,595	55,582	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Leon	Voted Vote-by-Mail	1,542	2,388	23	495	4,448	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Levy	Voted Vote-by-Mail	613	344	12	141	1,110	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Liberty	Voted Vote-by-Mail	12	26	0	2	40	10/10/2018  7:12AM
+10481	11/06/2018	2018 General Election	Madison	Voted Vote-by-Mail	92	112	0	11	215	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Manatee	Voted Vote-by-Mail	8,756	5,922	99	3,489	18,266	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Marion	Voted Vote-by-Mail	8,275	5,507	50	2,438	16,270	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Martin	Voted Vote-by-Mail	5,646	2,978	63	1,499	10,186	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Miami-Dade	Voted Vote-by-Mail	16,725	16,042	155	8,314	41,236	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Monroe	Voted Vote-by-Mail	2,271	1,815	41	801	4,928	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Nassau	Voted Vote-by-Mail	2,296	989	26	471	3,782	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Okaloosa	Voted Vote-by-Mail	1,558	632	15	377	2,582	10/16/2018  7:13AM
+10481	11/06/2018	2018 General Election	Okeechobee	Voted Vote-by-Mail	455	340	4	87	886	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Orange	Voted Vote-by-Mail	12,184	16,206	182	6,296	34,868	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Osceola	Voted Vote-by-Mail	3,523	5,344	57	2,453	11,377	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Palm Beach	Voted Vote-by-Mail	6,066	9,615	113	3,135	18,929	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Pasco	Voted Vote-by-Mail	11,362	9,859	186	5,166	26,573	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Pinellas	Voted Vote-by-Mail	27,529	25,504	407	12,464	65,904	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Polk	Voted Vote-by-Mail	8,083	6,638	90	3,326	18,137	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Putnam	Voted Vote-by-Mail	503	422	6	113	1,044	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Santa Rosa	Voted Vote-by-Mail	2,573	1,181	32	545	4,331	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Sarasota	Voted Vote-by-Mail	10,571	10,654	104	4,061	25,390	10/17/2018  7:11AM
+10481	11/06/2018	2018 General Election	Seminole	Voted Vote-by-Mail	4,186	3,250	43	1,644	9,123	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	St. Johns	Voted Vote-by-Mail	5,173	3,046	71	1,353	9,643	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	St. Lucie	Voted Vote-by-Mail	5,021	5,222	50	2,240	12,533	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Sumter	Voted Vote-by-Mail	4,747	3,151	24	1,474	9,396	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Suwannee	Voted Vote-by-Mail	537	392	3	80	1,012	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Taylor	Voted Vote-by-Mail	245	292	3	26	566	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Union	Voted Vote-by-Mail	68	56	0	7	131	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Volusia	Voted Vote-by-Mail	12,382	10,087	189	5,438	28,096	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Wakulla	Voted Vote-by-Mail	343	359	1	62	765	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Walton	Voted Vote-by-Mail	454	163	5	62	684	10/18/2018  7:12AM
+10481	11/06/2018	2018 General Election	Washington	Voted Vote-by-Mail	187	88	3	17	295	10/18/2018  7:12AM
