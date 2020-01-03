@@ -1,0 +1,33 @@
+{
+	"ultimi_ep_votanti": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votaultimi/TE/01", 
+			"{base_folder}/ultimi_ep_votanti/votanti_enti_pervenuti-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/europee/votanti/20190526/votantiultimiEI"]]
+		]
+	],
+	
+	"ultimi_ep_scrutini": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scruultimiEI/TE/01", 
+			"{base_folder}/ultimi_ep_scrutini/scrutini_enti_pervenuti-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/europee/scrutini/20190526/ultimipervEI"]]
+		]
+	],
+	
+	"votanti_italia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/01",
+			"{base_folder}/votanti/votanti_ITALIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/europee/votanti/20190526/votantiEI"]]
+		]
+	],
+	
+	"scrutini_italia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniEI/TE/01",
+			"{base_folder}/scrutini/scrutini_ITALIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/europee/scrutini/20190526/scrutiniEI"]]
+		]	
+	]
+}
