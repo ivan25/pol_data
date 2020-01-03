@@ -1,0 +1,59 @@
+{
+	
+	"votanti_umbria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/RE/10",
+			"{base_folder}/votanti/votanti_UMBRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20191027/votantiRI10000"]]
+		]
+	],	
+	
+	"votanti_perugia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/058",
+			"{base_folder}/votanti/votanti_PERUGIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20191027/votantiRI10058"]]
+		]
+	],	
+	
+	"votanti_terni": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/080",
+			"{base_folder}/votanti/votanti_TERNI-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20191027/votantiRI10080"]]
+		]
+	],		
+	
+	"ultimi_ep_scrutini": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scruultimiR/TE/07", 
+			"{base_folder}/ultimi_ep_scrutini/scrutini_enti_pervenuti-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20191027/ultimipervRI"]]
+		]
+	],
+	
+	"scrutini_umbria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/10",
+			"{base_folder}/scrutini/scrutini_UMBRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20191027/scrutiniRI100000000000"]]
+		]	
+	],
+	
+	"scrutini_perugia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/10/PR/058",
+			"{base_folder}/scrutini/scrutini_PERUGIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20191027/scrutiniRI103040580000"]]
+		]	
+	],
+	
+	"scrutini_terni": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/10/PR/080",
+			"{base_folder}/scrutini/scrutini_TERNI-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20191027/scrutiniRI103040800000"]]
+		]	
+	]	
+	
+}
