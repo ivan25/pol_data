@@ -1,0 +1,5330 @@
+{
+  "int": {
+    "file": "GEOPOLITICA REGIONALI",
+    "area": "I",
+    "t_ele": "Regionali Speciali",
+    "dt_ele": 20200126000000
+  },
+  "enti": [
+    {
+      "cod": "080000000000",
+      "desc": "EMILIA-ROMAGNA",
+      "tipo": "RE",
+      "tipo_comune": null,
+      "dt_agg": 20191205103756
+    },
+    {
+      "cod": "080130000000",
+      "desc": "BOLOGNA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": 20191205103756
+    },
+    {
+      "cod": "080130130000",
+      "desc": "BOLOGNA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": 20191205103756
+    },
+    {
+      "cod": "080130130005",
+      "desc": "ALTO RENO TERME",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": 20191204113003
+    },
+    {
+      "cod": "080130130010",
+      "desc": "ANZOLA DELL'EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130020",
+      "desc": "ARGELATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": 20191204112410
+    },
+    {
+      "cod": "080130130030",
+      "desc": "BARICELLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130050",
+      "desc": "BENTIVOGLIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": 20191204150115
+    },
+    {
+      "cod": "080130130060",
+      "desc": "BOLOGNA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130070",
+      "desc": "BORGO TOSSIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": 20191205103756
+    },
+    {
+      "cod": "080130130080",
+      "desc": "BUDRIO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130090",
+      "desc": "CALDERARA DI RENO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130100",
+      "desc": "CAMUGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130110",
+      "desc": "CASALECCHIO DI RENO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130120",
+      "desc": "CASALFIUMANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130130",
+      "desc": "CASTEL D'AIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130140",
+      "desc": "CASTEL DEL RIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130150",
+      "desc": "CASTEL DI CASIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130160",
+      "desc": "CASTEL GUELFO DI BOLOGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130170",
+      "desc": "CASTELLO D'ARGILE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130190",
+      "desc": "CASTEL MAGGIORE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130200",
+      "desc": "CASTEL SAN PIETRO TERME",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130210",
+      "desc": "CASTENASO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130220",
+      "desc": "CASTIGLIONE DEI PEPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130240",
+      "desc": "CREVALCORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130250",
+      "desc": "DOZZA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130260",
+      "desc": "FONTANELICE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130270",
+      "desc": "GAGGIO MONTANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130280",
+      "desc": "GALLIERA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130300",
+      "desc": "GRANAROLO DELL'EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130310",
+      "desc": "GRIZZANA MORANDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130320",
+      "desc": "IMOLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130330",
+      "desc": "LIZZANO IN BELVEDERE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130340",
+      "desc": "LOIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130350",
+      "desc": "MALALBERGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130360",
+      "desc": "MARZABOTTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130370",
+      "desc": "MEDICINA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130380",
+      "desc": "MINERBIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130390",
+      "desc": "MOLINELLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130400",
+      "desc": "MONGHIDORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130410",
+      "desc": "MONTERENZIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130420",
+      "desc": "MONTE SAN PIETRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130440",
+      "desc": "MONZUNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130450",
+      "desc": "MORDANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130460",
+      "desc": "OZZANO DELL'EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130470",
+      "desc": "PIANORO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130480",
+      "desc": "PIEVE DI CENTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130500",
+      "desc": "SALA BOLOGNESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130510",
+      "desc": "SAN BENEDETTO VAL DI SAMBRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130520",
+      "desc": "SAN GIORGIO DI PIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130530",
+      "desc": "SAN GIOVANNI IN PERSICETO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130540",
+      "desc": "SAN LAZZARO DI SAVENA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130550",
+      "desc": "SAN PIETRO IN CASALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130560",
+      "desc": "SANT'AGATA BOLOGNESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130570",
+      "desc": "SASSO MARCONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130585",
+      "desc": "VALSAMOGGIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130590",
+      "desc": "VERGATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080130130600",
+      "desc": "ZOLA PREDOSA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290000000",
+      "desc": "FERRARA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290000",
+      "desc": "FERRARA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290010",
+      "desc": "ARGENTA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290030",
+      "desc": "BONDENO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290040",
+      "desc": "CENTO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290050",
+      "desc": "CODIGORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290060",
+      "desc": "COMACCHIO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290070",
+      "desc": "COPPARO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290080",
+      "desc": "FERRARA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290085",
+      "desc": "FISCAGLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290091",
+      "desc": "GORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290100",
+      "desc": "JOLANDA DI SAVOIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290110",
+      "desc": "LAGOSANTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290111",
+      "desc": "MASI TORELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290130",
+      "desc": "MESOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290150",
+      "desc": "OSTELLATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290160",
+      "desc": "POGGIO RENATICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290170",
+      "desc": "PORTOMAGGIORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290175",
+      "desc": "RIVA DEL PO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290185",
+      "desc": "TERRE DEL RENO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290195",
+      "desc": "TRESIGNANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290200",
+      "desc": "VIGARANO MAINARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080290290210",
+      "desc": "VOGHIERA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320000000",
+      "desc": "FORLI'-CESENA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320000",
+      "desc": "FORLI'-CESENA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320010",
+      "desc": "BAGNO DI ROMAGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320020",
+      "desc": "BERTINORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320030",
+      "desc": "BORGHI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320040",
+      "desc": "CASTROCARO TERME E TERRA DEL SOLE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320060",
+      "desc": "CESENA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320070",
+      "desc": "CESENATICO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320080",
+      "desc": "CIVITELLA DI ROMAGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320100",
+      "desc": "DOVADOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320110",
+      "desc": "FORLI'",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320120",
+      "desc": "FORLIMPOPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320130",
+      "desc": "GALEATA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320140",
+      "desc": "GAMBETTOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320150",
+      "desc": "GATTEO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320170",
+      "desc": "LONGIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320180",
+      "desc": "MELDOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320190",
+      "desc": "MERCATO SARACENO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320210",
+      "desc": "MODIGLIANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320270",
+      "desc": "MONTIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320300",
+      "desc": "PORTICO E SAN BENEDETTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320310",
+      "desc": "PREDAPPIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320320",
+      "desc": "PREMILCUORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320350",
+      "desc": "ROCCA SAN CASCIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320360",
+      "desc": "RONCOFREDDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320400",
+      "desc": "SAN MAURO PASCOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320420",
+      "desc": "SANTA SOFIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320430",
+      "desc": "SARSINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320440",
+      "desc": "SAVIGNANO SUL RUBICONE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320450",
+      "desc": "SOGLIANO AL RUBICONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320480",
+      "desc": "TREDOZIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080320320490",
+      "desc": "VERGHERETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500000000",
+      "desc": "MODENA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500000",
+      "desc": "MODENA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500010",
+      "desc": "BASTIGLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500020",
+      "desc": "BOMPORTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500030",
+      "desc": "CAMPOGALLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500040",
+      "desc": "CAMPOSANTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500050",
+      "desc": "CARPI",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500060",
+      "desc": "CASTELFRANCO EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500070",
+      "desc": "CASTELNUOVO RANGONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500080",
+      "desc": "CASTELVETRO DI MODENA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500090",
+      "desc": "CAVEZZO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500100",
+      "desc": "CONCORDIA SULLA SECCHIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500110",
+      "desc": "FANANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500120",
+      "desc": "FINALE EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500130",
+      "desc": "FIORANO MODENESE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500140",
+      "desc": "FIUMALBO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500150",
+      "desc": "FORMIGINE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500160",
+      "desc": "FRASSINORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500170",
+      "desc": "GUIGLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500180",
+      "desc": "LAMA MOCOGNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500190",
+      "desc": "MARANELLO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500200",
+      "desc": "MARANO SUL PANARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500210",
+      "desc": "MEDOLLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500220",
+      "desc": "MIRANDOLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500230",
+      "desc": "MODENA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500240",
+      "desc": "MONTECRETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500250",
+      "desc": "MONTEFIORINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500260",
+      "desc": "MONTESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500270",
+      "desc": "NONANTOLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500280",
+      "desc": "NOVI DI MODENA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500281",
+      "desc": "PALAGANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500290",
+      "desc": "PAVULLO NEL FRIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500300",
+      "desc": "PIEVEPELAGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500310",
+      "desc": "POLINAGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500320",
+      "desc": "PRIGNANO SULLA SECCHIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500330",
+      "desc": "RAVARINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500340",
+      "desc": "RIOLUNATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500350",
+      "desc": "SAN CESARIO SUL PANARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500360",
+      "desc": "SAN FELICE SUL PANARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500370",
+      "desc": "SAN POSSIDONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500380",
+      "desc": "SAN PROSPERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500390",
+      "desc": "SASSUOLO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500400",
+      "desc": "SAVIGNANO SUL PANARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500410",
+      "desc": "SERRAMAZZONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500420",
+      "desc": "SESTOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500430",
+      "desc": "SOLIERA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500440",
+      "desc": "SPILAMBERTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500450",
+      "desc": "VIGNOLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080500500460",
+      "desc": "ZOCCA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560000000",
+      "desc": "PARMA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560000",
+      "desc": "PARMA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560010",
+      "desc": "ALBARETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560020",
+      "desc": "BARDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560030",
+      "desc": "BEDONIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560040",
+      "desc": "BERCETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560050",
+      "desc": "BORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560060",
+      "desc": "BORGO VAL DI TARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560070",
+      "desc": "BUSSETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560080",
+      "desc": "CALESTANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560090",
+      "desc": "COLLECCHIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560100",
+      "desc": "COLORNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560110",
+      "desc": "COMPIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560120",
+      "desc": "CORNIGLIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560130",
+      "desc": "FELINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560140",
+      "desc": "FIDENZA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560150",
+      "desc": "FONTANELLATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560160",
+      "desc": "FONTEVIVO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560170",
+      "desc": "FORNOVO DI TARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560180",
+      "desc": "LANGHIRANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560190",
+      "desc": "LESIGNANO DE' BAGNI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560200",
+      "desc": "MEDESANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560220",
+      "desc": "MONCHIO DELLE CORTI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560230",
+      "desc": "MONTECHIARUGOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560240",
+      "desc": "NEVIANO DEGLI ARDUINI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560250",
+      "desc": "NOCETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560260",
+      "desc": "PALANZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560270",
+      "desc": "PARMA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560280",
+      "desc": "PELLEGRINO PARMENSE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560291",
+      "desc": "POLESINE ZIBELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560300",
+      "desc": "ROCCABIANCA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560310",
+      "desc": "SALA BAGANZA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560320",
+      "desc": "SALSOMAGGIORE TERME",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560330",
+      "desc": "SAN SECONDO PARMENSE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560345",
+      "desc": "SISSA TRECASALI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560350",
+      "desc": "SOLIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560360",
+      "desc": "SORAGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560375",
+      "desc": "SORBOLO MEZZANI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560380",
+      "desc": "TERENZO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560390",
+      "desc": "TIZZANO VAL PARMA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560400",
+      "desc": "TORNOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560410",
+      "desc": "TORRILE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560420",
+      "desc": "TRAVERSETOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560440",
+      "desc": "VALMOZZOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560450",
+      "desc": "VARANO DE' MELEGARI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080560560460",
+      "desc": "VARSI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610000000",
+      "desc": "PIACENZA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610000",
+      "desc": "PIACENZA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610010",
+      "desc": "AGAZZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610020",
+      "desc": "ALSENO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610025",
+      "desc": "ALTA VAL TIDONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610030",
+      "desc": "BESENZONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610040",
+      "desc": "BETTOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610050",
+      "desc": "BOBBIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610060",
+      "desc": "BORGONOVO VAL TIDONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610070",
+      "desc": "CADEO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610080",
+      "desc": "CALENDASCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610100",
+      "desc": "CAORSO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610110",
+      "desc": "CARPANETO PIACENTINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610120",
+      "desc": "CASTELL'ARQUATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610130",
+      "desc": "CASTEL SAN GIOVANNI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610140",
+      "desc": "CASTELVETRO PIACENTINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610150",
+      "desc": "CERIGNALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610160",
+      "desc": "COLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610170",
+      "desc": "CORTE BRUGNATELLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610180",
+      "desc": "CORTEMAGGIORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610190",
+      "desc": "FARINI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610200",
+      "desc": "FERRIERE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610210",
+      "desc": "FIORENZUOLA D'ARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610220",
+      "desc": "GAZZOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610230",
+      "desc": "GOSSOLENGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610240",
+      "desc": "GRAGNANO TREBBIENSE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610250",
+      "desc": "GROPPARELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610260",
+      "desc": "LUGAGNANO VAL D'ARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610270",
+      "desc": "MONTICELLI D'ONGINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610280",
+      "desc": "MORFASSO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610300",
+      "desc": "OTTONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610320",
+      "desc": "PIACENZA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610330",
+      "desc": "PIANELLO VAL TIDONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610340",
+      "desc": "PIOZZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610350",
+      "desc": "PODENZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610360",
+      "desc": "PONTE DELL'OLIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610370",
+      "desc": "PONTENURE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610380",
+      "desc": "RIVERGARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610390",
+      "desc": "ROTTOFRENO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610400",
+      "desc": "SAN GIORGIO PIACENTINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610410",
+      "desc": "SAN PIETRO IN CERRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610420",
+      "desc": "SARMATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610430",
+      "desc": "TRAVO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610440",
+      "desc": "VERNASCA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610450",
+      "desc": "VIGOLZONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610460",
+      "desc": "VILLANOVA SULL'ARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610470",
+      "desc": "ZERBA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080610610480",
+      "desc": "ZIANO PIACENTINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660000000",
+      "desc": "RAVENNA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660000",
+      "desc": "RAVENNA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660010",
+      "desc": "ALFONSINE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660020",
+      "desc": "BAGNACAVALLO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660030",
+      "desc": "BAGNARA DI ROMAGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660040",
+      "desc": "BRISIGHELLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660050",
+      "desc": "CASOLA VALSENIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660060",
+      "desc": "CASTEL BOLOGNESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660070",
+      "desc": "CERVIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660080",
+      "desc": "CONSELICE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660090",
+      "desc": "COTIGNOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660100",
+      "desc": "FAENZA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660110",
+      "desc": "FUSIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660120",
+      "desc": "LUGO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660130",
+      "desc": "MASSA LOMBARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660140",
+      "desc": "RAVENNA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660150",
+      "desc": "RIOLO TERME",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660160",
+      "desc": "RUSSI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660170",
+      "desc": "SANT'AGATA SUL SANTERNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080660660180",
+      "desc": "SOLAROLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680000000",
+      "desc": "REGGIO EMILIA",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680000",
+      "desc": "REGGIO NELL' EMILIA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680010",
+      "desc": "ALBINEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680020",
+      "desc": "BAGNOLO IN PIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680030",
+      "desc": "BAISO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680040",
+      "desc": "BIBBIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680050",
+      "desc": "BORETTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680060",
+      "desc": "BRESCELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680080",
+      "desc": "CADELBOSCO DI SOPRA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680090",
+      "desc": "CAMPAGNOLA EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680100",
+      "desc": "CAMPEGINE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680110",
+      "desc": "CARPINETI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680120",
+      "desc": "CASALGRANDE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680130",
+      "desc": "CASINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680140",
+      "desc": "CASTELLARANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680150",
+      "desc": "CASTELNOVO DI SOTTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680160",
+      "desc": "CASTELNOVO NE' MONTI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680170",
+      "desc": "CAVRIAGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680180",
+      "desc": "CANOSSA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680200",
+      "desc": "CORREGGIO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680210",
+      "desc": "FABBRICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680220",
+      "desc": "GATTATICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680230",
+      "desc": "GUALTIERI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680240",
+      "desc": "GUASTALLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680260",
+      "desc": "LUZZARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680270",
+      "desc": "MONTECCHIO EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680280",
+      "desc": "NOVELLARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680290",
+      "desc": "POVIGLIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680300",
+      "desc": "QUATTRO CASTELLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680320",
+      "desc": "REGGIOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680330",
+      "desc": "REGGIO NELL'EMILIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680340",
+      "desc": "RIO SALICETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680350",
+      "desc": "ROLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680360",
+      "desc": "RUBIERA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680370",
+      "desc": "SAN MARTINO IN RIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680380",
+      "desc": "SAN POLO D'ENZA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680390",
+      "desc": "SANT'ILARIO D'ENZA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680400",
+      "desc": "SCANDIANO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680410",
+      "desc": "TOANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680415",
+      "desc": "VENTASSO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680420",
+      "desc": "VETTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680430",
+      "desc": "VEZZANO SUL CROSTOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680440",
+      "desc": "VIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "080680680450",
+      "desc": "VILLA MINOZZO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081010000000",
+      "desc": "RIMINI",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010000",
+      "desc": "RIMINI",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010010",
+      "desc": "BELLARIA-IGEA MARINA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010015",
+      "desc": "CASTELDELCI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010020",
+      "desc": "CATTOLICA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010030",
+      "desc": "CORIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010040",
+      "desc": "GEMMANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010045",
+      "desc": "MAIOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010050",
+      "desc": "MISANO ADRIATICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010060",
+      "desc": "MONDAINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010080",
+      "desc": "MONTEFIORE CONCA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010090",
+      "desc": "MONTEGRIDOLFO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010101",
+      "desc": "MONTESCUDO - MONTE COLOMBO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010110",
+      "desc": "MORCIANO DI ROMAGNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010115",
+      "desc": "NOVAFELTRIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010116",
+      "desc": "PENNABILLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010125",
+      "desc": "POGGIO TORRIANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010130",
+      "desc": "RICCIONE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010140",
+      "desc": "RIMINI",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010150",
+      "desc": "SALUDECIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010160",
+      "desc": "SAN CLEMENTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010170",
+      "desc": "SAN GIOVANNI IN MARIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010175",
+      "desc": "SAN LEO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010176",
+      "desc": "SANT'AGATA FELTRIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010180",
+      "desc": "SANTARCANGELO DI ROMAGNA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010185",
+      "desc": "TALAMELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "081011010200",
+      "desc": "VERUCCHIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "180000000000",
+      "desc": "CALABRIA",
+      "tipo": "RE",
+      "tipo_comune": null,
+      "dt_agg": 20191205115617
+    },
+    {
+      "cod": "183010000000",
+      "desc": "NORD",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250000",
+      "desc": "COSENZA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250010",
+      "desc": "ACQUAFORMOSA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250020",
+      "desc": "ACQUAPPESA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250030",
+      "desc": "ACRI",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250040",
+      "desc": "AIELLO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250050",
+      "desc": "AIETA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250060",
+      "desc": "ALBIDONA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250070",
+      "desc": "ALESSANDRIA DEL CARRETTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250080",
+      "desc": "ALTILIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250090",
+      "desc": "ALTOMONTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250100",
+      "desc": "AMANTEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250110",
+      "desc": "AMENDOLARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250120",
+      "desc": "APRIGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250130",
+      "desc": "BELMONTE CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250140",
+      "desc": "BELSITO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250150",
+      "desc": "BELVEDERE MARITTIMO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250160",
+      "desc": "BIANCHI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250170",
+      "desc": "BISIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250180",
+      "desc": "BOCCHIGLIERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250190",
+      "desc": "BONIFATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250200",
+      "desc": "BUONVICINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250210",
+      "desc": "CALOPEZZATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250220",
+      "desc": "CALOVETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250230",
+      "desc": "CAMPANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250240",
+      "desc": "CANNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250250",
+      "desc": "CARIATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250260",
+      "desc": "CAROLEI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250270",
+      "desc": "CARPANZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250275",
+      "desc": "CASALI DEL MANCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250290",
+      "desc": "CASSANO ALL'IONIO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250300",
+      "desc": "CASTIGLIONE COSENTINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250310",
+      "desc": "CASTROLIBERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250320",
+      "desc": "CASTROREGIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250330",
+      "desc": "CASTROVILLARI",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250340",
+      "desc": "CELICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250350",
+      "desc": "CELLARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250360",
+      "desc": "CERCHIARA DI CALABRIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250370",
+      "desc": "CERISANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250380",
+      "desc": "CERVICATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250390",
+      "desc": "CERZETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250400",
+      "desc": "CETRARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250420",
+      "desc": "CIVITA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250430",
+      "desc": "CLETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250440",
+      "desc": "COLOSIMI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250455",
+      "desc": "CORIGLIANO-ROSSANO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250460",
+      "desc": "COSENZA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250470",
+      "desc": "CROPALATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250480",
+      "desc": "CROSIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250490",
+      "desc": "DIAMANTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250500",
+      "desc": "DIPIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250510",
+      "desc": "DOMANICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250520",
+      "desc": "FAGNANO CASTELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250530",
+      "desc": "FALCONARA ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250540",
+      "desc": "FIGLINE VEGLIATURO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250550",
+      "desc": "FIRMO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250560",
+      "desc": "FIUMEFREDDO BRUZIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250570",
+      "desc": "FRANCAVILLA MARITTIMA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250580",
+      "desc": "FRASCINETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250590",
+      "desc": "FUSCALDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250600",
+      "desc": "GRIMALDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250610",
+      "desc": "GRISOLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250620",
+      "desc": "GUARDIA PIEMONTESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250630",
+      "desc": "LAGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250640",
+      "desc": "LAINO BORGO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250650",
+      "desc": "LAINO CASTELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250660",
+      "desc": "LAPPANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250670",
+      "desc": "LATTARICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250680",
+      "desc": "LONGOBARDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250690",
+      "desc": "LONGOBUCCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250700",
+      "desc": "LUNGRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250710",
+      "desc": "LUZZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250720",
+      "desc": "MAIERA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250730",
+      "desc": "MALITO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250740",
+      "desc": "MALVITO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250750",
+      "desc": "MANDATORICCIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250760",
+      "desc": "MANGONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250770",
+      "desc": "MARANO MARCHESATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250780",
+      "desc": "MARANO PRINCIPATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250790",
+      "desc": "MARZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250800",
+      "desc": "MENDICINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250810",
+      "desc": "MONGRASSANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250820",
+      "desc": "MONTALTO UFFUGO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250830",
+      "desc": "MONTEGIORDANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250840",
+      "desc": "MORANO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250850",
+      "desc": "MORMANNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250860",
+      "desc": "MOTTAFOLLONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250870",
+      "desc": "NOCARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250880",
+      "desc": "ORIOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250890",
+      "desc": "ORSOMARSO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250900",
+      "desc": "PALUDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250910",
+      "desc": "PANETTIERI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250920",
+      "desc": "PAOLA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250930",
+      "desc": "PAPASIDERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250940",
+      "desc": "PARENTI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250950",
+      "desc": "PATERNO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250970",
+      "desc": "PEDIVIGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250980",
+      "desc": "PIANE CRATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010250990",
+      "desc": "PIETRAFITTA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251000",
+      "desc": "PIETRAPAOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251010",
+      "desc": "PLATACI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251020",
+      "desc": "PRAIA A MARE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251030",
+      "desc": "RENDE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251040",
+      "desc": "ROCCA IMPERIALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251050",
+      "desc": "ROGGIANO GRAVINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251060",
+      "desc": "ROGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251070",
+      "desc": "ROSE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251080",
+      "desc": "ROSETO CAPO SPULICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251100",
+      "desc": "ROTA GRECA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251110",
+      "desc": "ROVITO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251120",
+      "desc": "SAN BASILE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251130",
+      "desc": "SAN BENEDETTO ULLANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251140",
+      "desc": "SAN COSMO ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251150",
+      "desc": "SAN DEMETRIO CORONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251160",
+      "desc": "SAN DONATO DI NINEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251170",
+      "desc": "SAN FILI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251180",
+      "desc": "SANGINETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251190",
+      "desc": "SAN GIORGIO ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251200",
+      "desc": "SAN GIOVANNI IN FIORE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251210",
+      "desc": "SAN LORENZO BELLIZZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251220",
+      "desc": "SAN LORENZO DEL VALLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251230",
+      "desc": "SAN LUCIDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251240",
+      "desc": "SAN MARCO ARGENTANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251250",
+      "desc": "SAN MARTINO DI FINITA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251260",
+      "desc": "SAN NICOLA ARCELLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251270",
+      "desc": "SAN PIETRO IN AMANTEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251280",
+      "desc": "SAN PIETRO IN GUARANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251290",
+      "desc": "SAN SOSTI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251300",
+      "desc": "SANTA CATERINA ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251310",
+      "desc": "SANTA DOMENICA TALAO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251320",
+      "desc": "SANT'AGATA DI ESARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251321",
+      "desc": "SANTA MARIA DEL CEDRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251330",
+      "desc": "SANTA SOFIA D'EPIRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251340",
+      "desc": "SANTO STEFANO DI ROGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251350",
+      "desc": "SAN VINCENZO LA COSTA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251360",
+      "desc": "SARACENA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251370",
+      "desc": "SCALA COELI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251380",
+      "desc": "SCALEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251390",
+      "desc": "SCIGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251400",
+      "desc": "SERRA D'AIELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251420",
+      "desc": "SPEZZANO ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251430",
+      "desc": "SPEZZANO DELLA SILA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251450",
+      "desc": "TARSIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251460",
+      "desc": "TERRANOVA DA SIBARI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251470",
+      "desc": "TERRAVECCHIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251480",
+      "desc": "TORANO CASTELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251490",
+      "desc": "TORTORA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251500",
+      "desc": "TREBISACCE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251520",
+      "desc": "VACCARIZZO ALBANESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251530",
+      "desc": "VERBICARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251540",
+      "desc": "VILLAPIANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183010251550",
+      "desc": "ZUMPANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020000000",
+      "desc": "CENTRO",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220000",
+      "desc": "CATANZARO",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220020",
+      "desc": "ALBI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220030",
+      "desc": "AMARONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220040",
+      "desc": "AMATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220050",
+      "desc": "ANDALI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220070",
+      "desc": "ARGUSTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220080",
+      "desc": "BADOLATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220090",
+      "desc": "BELCASTRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220110",
+      "desc": "BORGIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220111",
+      "desc": "BOTRICELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220160",
+      "desc": "CARAFFA DI CATANZARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220170",
+      "desc": "CARDINALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220190",
+      "desc": "CARLOPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220220",
+      "desc": "CATANZARO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220230",
+      "desc": "CENADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220240",
+      "desc": "CENTRACHE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220260",
+      "desc": "CERVA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220280",
+      "desc": "CHIARAVALLE CENTRALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220290",
+      "desc": "CICALA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220310",
+      "desc": "CONFLENTI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220320",
+      "desc": "CORTALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220340",
+      "desc": "CROPANI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220370",
+      "desc": "CURINGA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220400",
+      "desc": "DAVOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220410",
+      "desc": "DECOLLATURA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220450",
+      "desc": "FALERNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220460",
+      "desc": "FEROLETO ANTICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220500",
+      "desc": "FOSSATO SERRALTA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220530",
+      "desc": "GAGLIATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220540",
+      "desc": "GASPERINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220560",
+      "desc": "GIMIGLIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220570",
+      "desc": "GIRIFALCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220580",
+      "desc": "GIZZERIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220590",
+      "desc": "GUARDAVALLE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220610",
+      "desc": "ISCA SULLO IONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220630",
+      "desc": "JACURSO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220641",
+      "desc": "LAMEZIA TERME",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220660",
+      "desc": "MAGISANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220670",
+      "desc": "MAIDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220690",
+      "desc": "MARCEDUSA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220700",
+      "desc": "MARCELLINARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220701",
+      "desc": "MARTIRANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220710",
+      "desc": "MARTIRANO LOMBARDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220740",
+      "desc": "MIGLIERINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220770",
+      "desc": "MONTAURO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220780",
+      "desc": "MONTEPAONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220800",
+      "desc": "MOTTA SANTA LUCIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220840",
+      "desc": "NOCERA TERINESE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220850",
+      "desc": "OLIVADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220860",
+      "desc": "PALERMITI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220890",
+      "desc": "PENTONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220910",
+      "desc": "PETRIZZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220920",
+      "desc": "PETRONA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220930",
+      "desc": "PIANOPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020220960",
+      "desc": "PLATANIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221050",
+      "desc": "SAN FLORO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221070",
+      "desc": "SAN MANGO D'AQUINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221110",
+      "desc": "SAN PIETRO A MAIDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221120",
+      "desc": "SAN PIETRO APOSTOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221130",
+      "desc": "SAN SOSTENE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221140",
+      "desc": "SANTA CATERINA DELLO IONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221150",
+      "desc": "SANT'ANDREA APOSTOLO DELLO IONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221190",
+      "desc": "SAN VITO SULLO IONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221200",
+      "desc": "SATRIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221230",
+      "desc": "SELLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221231",
+      "desc": "SELLIA MARINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221250",
+      "desc": "SERRASTRETTA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221260",
+      "desc": "SERSALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221270",
+      "desc": "SETTINGIANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221290",
+      "desc": "SIMERI CRICHI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221300",
+      "desc": "SORBO SAN BASILE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221330",
+      "desc": "SOVERATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221340",
+      "desc": "SOVERIA MANNELLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221350",
+      "desc": "SOVERIA SIMERI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221380",
+      "desc": "SQUILLACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221390",
+      "desc": "STALETTI'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221420",
+      "desc": "TAVERNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221430",
+      "desc": "TIRIOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221440",
+      "desc": "TORRE DI RUGGIERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221470",
+      "desc": "VALLEFIORITA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020221530",
+      "desc": "ZAGARISE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970000",
+      "desc": "CROTONE",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970010",
+      "desc": "BELVEDERE DI SPINELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970020",
+      "desc": "CACCURI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970030",
+      "desc": "CARFIZZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970040",
+      "desc": "CASABONA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970050",
+      "desc": "CASTELSILANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970060",
+      "desc": "CERENZIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970070",
+      "desc": "CIRO'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970080",
+      "desc": "CIRO' MARINA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970090",
+      "desc": "COTRONEI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970100",
+      "desc": "CROTONE",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970110",
+      "desc": "CRUCOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970120",
+      "desc": "CUTRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970130",
+      "desc": "ISOLA DI CAPO RIZZUTO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970140",
+      "desc": "MELISSA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970150",
+      "desc": "MESORACA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970160",
+      "desc": "PALLAGORIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970170",
+      "desc": "PETILIA POLICASTRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970180",
+      "desc": "ROCCABERNARDA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970190",
+      "desc": "ROCCA DI NETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970200",
+      "desc": "SAN MAURO MARCHESATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970210",
+      "desc": "SAN NICOLA DELL'ALTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970220",
+      "desc": "SANTA SEVERINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970230",
+      "desc": "SAVELLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970240",
+      "desc": "SCANDALE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970250",
+      "desc": "STRONGOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970260",
+      "desc": "UMBRIATICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183020970270",
+      "desc": "VERZINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030000",
+      "desc": "VIBO VALENTIA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030010",
+      "desc": "ACQUARO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030020",
+      "desc": "ARENA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030030",
+      "desc": "BRIATICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030040",
+      "desc": "BROGNATURO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030050",
+      "desc": "CAPISTRANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030060",
+      "desc": "CESSANITI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030070",
+      "desc": "DASA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030080",
+      "desc": "DINAMI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030090",
+      "desc": "DRAPIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030100",
+      "desc": "FABRIZIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030110",
+      "desc": "FILADELFIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030120",
+      "desc": "FILANDARI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030130",
+      "desc": "FILOGASO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030140",
+      "desc": "FRANCAVILLA ANGITOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030150",
+      "desc": "FRANCICA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030160",
+      "desc": "GEROCARNE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030170",
+      "desc": "IONADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030180",
+      "desc": "JOPPOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030190",
+      "desc": "LIMBADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030200",
+      "desc": "MAIERATO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030210",
+      "desc": "MILETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030220",
+      "desc": "MONGIANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030230",
+      "desc": "MONTEROSSO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030240",
+      "desc": "NARDODIPACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030250",
+      "desc": "NICOTERA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030260",
+      "desc": "PARGHELIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030270",
+      "desc": "PIZZO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030280",
+      "desc": "PIZZONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030290",
+      "desc": "POLIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030300",
+      "desc": "RICADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030310",
+      "desc": "ROMBIOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030320",
+      "desc": "SAN CALOGERO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030330",
+      "desc": "SAN COSTANTINO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030340",
+      "desc": "SAN GREGORIO D'IPPONA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030350",
+      "desc": "SAN NICOLA DA CRISSA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030360",
+      "desc": "SANT'ONOFRIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030370",
+      "desc": "SERRA SAN BRUNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030380",
+      "desc": "SIMBARIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030390",
+      "desc": "SORIANELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030400",
+      "desc": "SORIANO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030410",
+      "desc": "SPADOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030420",
+      "desc": "SPILINGA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030430",
+      "desc": "STEFANACONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030440",
+      "desc": "TROPEA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030450",
+      "desc": "VALLELONGA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030460",
+      "desc": "VAZZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030470",
+      "desc": "VIBO VALENTIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030480",
+      "desc": "ZACCANOPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030490",
+      "desc": "ZAMBRONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183021030500",
+      "desc": "ZUNGRI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030000000",
+      "desc": "SUD",
+      "tipo": "CR",
+      "tipo_comune": null,
+      "dt_agg": 20191205115617
+    },
+    {
+      "cod": "183030670000",
+      "desc": "REGGIO CALABRIA",
+      "tipo": "PR",
+      "tipo_comune": null,
+      "dt_agg": 20191205115617
+    },
+    {
+      "cod": "183030670010",
+      "desc": "AFRICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": 20191205115617
+    },
+    {
+      "cod": "183030670020",
+      "desc": "AGNANA CALABRA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670030",
+      "desc": "ANOIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670040",
+      "desc": "ANTONIMINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670050",
+      "desc": "ARDORE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670060",
+      "desc": "BAGALADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670070",
+      "desc": "BAGNARA CALABRA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670080",
+      "desc": "BENESTARE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670090",
+      "desc": "BIANCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670100",
+      "desc": "BIVONGI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670110",
+      "desc": "BOVA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670120",
+      "desc": "BOVALINO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670130",
+      "desc": "BOVA MARINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670140",
+      "desc": "BRANCALEONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670150",
+      "desc": "BRUZZANO ZEFFIRIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670160",
+      "desc": "CALANNA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670170",
+      "desc": "CAMINI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670180",
+      "desc": "CAMPO CALABRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670190",
+      "desc": "CANDIDONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670200",
+      "desc": "CANOLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670210",
+      "desc": "CARAFFA DEL BIANCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670220",
+      "desc": "CARDETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670230",
+      "desc": "CARERI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670240",
+      "desc": "CASIGNANA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670250",
+      "desc": "CAULONIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670260",
+      "desc": "CIMINA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670270",
+      "desc": "CINQUEFRONDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670280",
+      "desc": "CITTANOVA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670290",
+      "desc": "CONDOFURI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670300",
+      "desc": "COSOLETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670310",
+      "desc": "DELIANUOVA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670320",
+      "desc": "FEROLETO DELLA CHIESA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670330",
+      "desc": "FERRUZZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670340",
+      "desc": "FIUMARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670350",
+      "desc": "GALATRO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670360",
+      "desc": "GERACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670370",
+      "desc": "GIFFONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670380",
+      "desc": "GIOIA TAURO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670390",
+      "desc": "GIOIOSA IONICA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670400",
+      "desc": "GROTTERIA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670410",
+      "desc": "LAGANADI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670420",
+      "desc": "LAUREANA DI BORRELLO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670430",
+      "desc": "LOCRI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670440",
+      "desc": "MAMMOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670450",
+      "desc": "MARINA DI GIOIOSA IONICA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670460",
+      "desc": "MAROPATI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670470",
+      "desc": "MARTONE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670480",
+      "desc": "MELICUCCA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670490",
+      "desc": "MELICUCCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670500",
+      "desc": "MELITO DI PORTO SALVO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670510",
+      "desc": "MOLOCHIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670520",
+      "desc": "MONASTERACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670530",
+      "desc": "MONTEBELLO JONICO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670540",
+      "desc": "MOTTA SAN GIOVANNI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670550",
+      "desc": "OPPIDO MAMERTINA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670560",
+      "desc": "PALIZZI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670570",
+      "desc": "PALMI",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670580",
+      "desc": "PAZZANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670590",
+      "desc": "PLACANICA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670600",
+      "desc": "PLATI'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670610",
+      "desc": "POLISTENA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670620",
+      "desc": "PORTIGLIOLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670630",
+      "desc": "REGGIO DI CALABRIA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670640",
+      "desc": "RIACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670650",
+      "desc": "RIZZICONI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670660",
+      "desc": "ROCCAFORTE DEL GRECO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670670",
+      "desc": "ROCCELLA IONICA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670680",
+      "desc": "ROGHUDI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670690",
+      "desc": "ROSARNO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670700",
+      "desc": "SAMO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670701",
+      "desc": "SAN FERDINANDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670710",
+      "desc": "SAN GIORGIO MORGETO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670720",
+      "desc": "SAN GIOVANNI DI GERACE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670730",
+      "desc": "SAN LORENZO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670740",
+      "desc": "SAN LUCA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670750",
+      "desc": "SAN PIETRO DI CARIDA'",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670760",
+      "desc": "SAN PROCOPIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670770",
+      "desc": "SAN ROBERTO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670780",
+      "desc": "SANTA CRISTINA D'ASPROMONTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670790",
+      "desc": "SANT'AGATA DEL BIANCO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670800",
+      "desc": "SANT'ALESSIO IN ASPROMONTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670810",
+      "desc": "SANT'EUFEMIA D'ASPROMONTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670820",
+      "desc": "SANT'ILARIO DELLO IONIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670830",
+      "desc": "SANTO STEFANO IN ASPROMONTE",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670840",
+      "desc": "SCIDO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670850",
+      "desc": "SCILLA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670860",
+      "desc": "SEMINARA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670870",
+      "desc": "SERRATA",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670880",
+      "desc": "SIDERNO",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670890",
+      "desc": "SINOPOLI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670900",
+      "desc": "STAITI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670910",
+      "desc": "STIGNANO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670920",
+      "desc": "STILO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670930",
+      "desc": "TAURIANOVA",
+      "tipo": "CM",
+      "tipo_comune": "M",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670940",
+      "desc": "TERRANOVA SAPPO MINULIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670950",
+      "desc": "VARAPODIO",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    },
+    {
+      "cod": "183030670960",
+      "desc": "VILLA SAN GIOVANNI",
+      "tipo": "CM",
+      "tipo_comune": "N",
+      "dt_agg": null
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+	
+	"ultimi_ep_votanti": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votaultimi/TE/07",
+			"{base_folder}/ultimi_ep_votanti/ultimi_ep_votanti-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiultimiRI"]]
+		]
+	],		
+	
+	"ultimi_ep_scrutini": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scruultimiR/TE/07",
+			"{base_folder}/ultimi_ep_scrutini/ultimi_ep_scrutini-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/ultimipervRI"]]
+		]
+	],	
+	
+
+	
+	
+	
+	
+	
+	"votanti_er": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/RE/08",
+			"{base_folder}/votanti/votanti_ER-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08000"]]
+		]
+	],	
+	
+	"scrutini_er": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08",
+			"{base_folder}/scrutini/scrutini_ER-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080000000000"]]
+		]
+	],		
+	
+	"votanti_piacenza": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/061",
+			"{base_folder}/votanti/votanti_PIACENZA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08061"]]
+		]
+	],		
+	
+	"scrutini_piacenza": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/061",
+			"{base_folder}/scrutini/scrutini_PIACENZA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080610610000"]]
+		]
+	],
+	
+	"votanti_parma": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/056",
+			"{base_folder}/votanti/votanti_PARMA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08056"]]
+		]
+	],		
+	
+	"scrutini_parma": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/056",
+			"{base_folder}/scrutini/scrutini_PARMA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080560560000"]]
+		]
+	],	
+	
+	"votanti_reggioemilia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/068",
+			"{base_folder}/votanti/votanti_REGGIOEMILIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08068"]]
+		]
+	],		
+
+	"scrutini_reggioemilia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/068",
+			"{base_folder}/scrutini/scrutini_REGGIOEMILIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080680680000"]]
+		]
+	],	
+	
+	"votanti_modena": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/050",
+			"{base_folder}/votanti/votanti_MODENA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08050"]]
+		]
+	],		
+	
+	"scrutini_modena": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/050",
+			"{base_folder}/scrutini/scrutini_MODENA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080500500000"]]
+		]
+	],	
+		
+	"votanti_bologna": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/050",
+			"{base_folder}/votanti/votanti_BOLOGNA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08050"]]
+		]
+	],		
+	
+	"scrutini_bologna": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/013",
+			"{base_folder}/scrutini/scrutini_BOLOGNA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080130130000"]]
+		]
+	],	
+		
+	"votanti_ferrara": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/029",
+			"{base_folder}/votanti/votanti_FERRARA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08029"]]
+		]
+	],	
+	
+	"scrutini_ferrara": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/029",
+			"{base_folder}/scrutini/scrutini_FERRARA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080290290000"]]
+		]
+	],	
+		
+	"votanti_ravenna": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/066",
+			"{base_folder}/votanti/votanti_RAVENNA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08066"]]
+		]
+	],		
+	
+	"scrutini_ravenna": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/066",
+			"{base_folder}/scrutini/scrutini_RAVENNA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080660660000"]]
+		]
+	],	
+		
+	"votanti_forlicesena": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/032",
+			"{base_folder}/votanti/votanti_FORLICESENA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08032"]]
+		]
+	],		
+
+	"scrutini_forlicesena": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/032",
+			"{base_folder}/scrutini/scrutini_FORLICESENA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI080320320000"]]
+		]
+	],	
+	
+	"votanti_rimini": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/101",
+			"{base_folder}/votanti/votanti_RIMINI-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI08101"]]
+		]
+	],		
+	
+	"scrutini_rimini": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/08/CR/101",
+			"{base_folder}/scrutini/scrutini_RIMINI-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI081011010000"]]
+		]
+	],
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"votanti_calabria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/RE/18",
+			"{base_folder}/votanti/votanti_CALABRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18000"]]
+		]
+	],
+
+	"scrutini_calabria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18",
+			"{base_folder}/scrutini/scrutini_CALABRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI180000000000"]]
+		]
+	],		
+	
+	"votanti_cosenza": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/025",
+			"{base_folder}/votanti/votanti_COSENZA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18025"]]
+		]
+	],			
+	
+	"scrutini_cosenza": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/PR/025",
+			"{base_folder}/scrutini/scrutini_COSENZA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183010250000"]]
+		]
+	],			
+	
+	"votanti_crotone": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/097",
+			"{base_folder}/votanti/votanti_CROTONE-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18097"]]
+		]
+	],
+	
+	"scrutini_crotone": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/PR/097",
+			"{base_folder}/scrutini/scrutini_CROTONE-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183020970000"]]
+		]
+	],
+	
+	"votanti_catanzaro": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/022",
+			"{base_folder}/votanti/votanti_CATANZARO-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18022"]]
+		]
+	],
+	
+	"scrutini_catanzaro": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/PR/022",
+			"{base_folder}/scrutini/scrutini_CATANZARO-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183020220000"]]
+		]
+	],
+	
+	"votanti_vibovalentia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/103",
+			"{base_folder}/votanti/votanti_VIBOVALENTIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18103"]]
+		]
+	],
+	
+	"scrutini_vibovalentia": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/PR/103",
+			"{base_folder}/scrutini/scrutini_VIBOVALENTIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183021030000"]]
+		]
+	],
+	
+	"votanti_reggiocalabria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/votanti/TE/07/PR/067",
+			"{base_folder}/votanti/votanti_REGGIOCALABRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/votanti/20200126/votantiRI18067"]]
+		]
+	],
+	
+	"scrutini_reggiocalabria": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/PR/067",
+			"{base_folder}/scrutini/scrutini_REGGIOCALABRIA-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183030670000"]]
+		]
+	],
+	
+	"scrutini_calcircnord": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/CR/301",
+			"{base_folder}/scrutini/scrutini_CALCIRCNORD-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183010000000"]]
+		]
+	],
+	
+	"scrutini_calcirccentro": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/CR/302",
+			"{base_folder}/scrutini/scrutini_CALCIRCCENTRO-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183020000000"]]
+		]
+	],
+	
+	"scrutini_calcircsud": [
+		[
+			"https://eleapi.interno.gov.it/siel/PX/scrutiniR/TE/07/RE/18/CR/303",
+			"{base_folder}/scrutini/scrutini_CALCIRCSUD-{timestamp}-.json",
+			[["Referer", "https://elezioni.interno.gov.it/regionali/scrutini/20200126/scrutiniRI183030000000"]]
+		]
+	]
+	
+}
